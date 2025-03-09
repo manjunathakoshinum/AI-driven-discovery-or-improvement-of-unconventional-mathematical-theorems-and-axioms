@@ -103,10 +103,10 @@ Graph-Based Machine Learning for Mathematical Discovery (2025)
 This project is licensed under the MIT License – See LICENSE for details.
 
 ✨ Contributors
-👨‍💻 Your Name – Lead Developer & Researcher
-👩‍💻 Team Member 1 – Mathematical Model Expert
-👨‍💻 Team Member 2 – Machine Learning & Theorem Proving
-👩‍💻 Team Member 3 – Graph AI & Reinforcement Learning
+👨‍💻 Team Member 1 – Lead Developer & Researcher
+👩‍💻 Team Member 2 – Mathematical Model Expert
+👨‍💻 Team Member 3 – Machine Learning & Theorem Proving
+👩‍💻 Team Member 4 – Graph AI & Reinforcement Learning
 
 🎯 Future Work
 🔹 Refining AI-Based Theorem Generation
@@ -115,9 +115,12 @@ This project is licensed under the MIT License – See LICENSE for details.
 🔹 Publishing Research Papers
 
 💬 Get in Touch!
-📧 Contact us at: your.email@example.com
-🌐 Visit our website: your-website.com
-🔗 Follow us on LinkedIn
+📧 Contact us at: manjunathakoshinum@gmail.com
+                  akhilnag07@gmail.com
+                  varshirdx@gmail.com
+                  tsaireddy11@gmail.com
+                  
+🔗 Follow us on LinkedIn https://www.linkedin.com/in/manjunathah/
 
 🚀 Join us in revolutionizing theorem discovery with AI!
 
