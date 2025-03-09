@@ -115,9 +115,9 @@ This project is licensed under the MIT License – See LICENSE for details.
 🔹 Publishing Research Papers
 
 💬 Get in Touch!
-📧 Contact us at: manjunathakoshinum@gmail.com
-                  akhilnag07@gmail.com
-                  varshirdx@gmail.com
+📧 Contact us at: manjunathakoshinum@gmail.com,
+                  akhilnag07@gmail.com,
+                  varshirdx@gmail.com,
                   tsaireddy11@gmail.com
                   
 🔗 Follow us on LinkedIn https://www.linkedin.com/in/manjunathah/
