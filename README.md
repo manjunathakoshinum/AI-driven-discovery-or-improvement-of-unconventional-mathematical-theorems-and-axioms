@@ -91,16 +91,16 @@ metamath metamath_proofs.mm
 python models/graph_neural_network.py
 ```
 
-📄 Research Papers & References
-📖 Key Papers Referenced:
+### 📄 Research Papers & References
+# 📖 Key Papers Referenced:
 
 Bolyai & Lobachevsky’s Hyperbolic Geometry (1830)
 AI-Augmented Theorem Proving with Lean & Coq (2024)
 Graph-Based Machine Learning for Mathematical Discovery (2025)
 📚 Want to contribute? See CONTRIBUTING.md for guidelines!
 
-⚖️ License
-This project is licensed under the MIT License – See LICENSE for details.
+# ⚖️ License
+# This project is licensed under the Apache License – See LICENSE for details.
 
 ✨ Contributors
 👨‍💻 Team Member 1 – Lead Developer & Researcher
@@ -123,5 +123,4 @@ This project is licensed under the MIT License – See LICENSE for details.
 🔗 Follow us on LinkedIn https://www.linkedin.com/in/manjunathah/
 
 🚀 Join us in revolutionizing theorem discovery with AI!
-
 
